@@ -21,6 +21,6 @@ function calculate(){
 
 function clr(){
     displayDiv.innerText = 0;
-    count = 0;
+    count = "";
     return count;
 }
